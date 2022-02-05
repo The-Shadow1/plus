@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644056921 source:c:\users\mostafa zooebi\desktop\c++\l4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
